@@ -89,7 +89,4 @@ You can refer to https://github.com/Trusted-AI/AIF360/tree/master/aif360/data fo
 
 * ```Results_multi.zip``` contains the raw results of applying each fairness improvement method in each scenario with multiple protected attributes. Each file in this folder has 21 columns, with the first column indicating the metric, and the next 20 columns the metric values of 20 runs.
 
-## Declaration
-
-Thanks to the authors of existing fairness improvement methods for open source, to facilitate our implementation of this paper. Therefore, when using our code or data for your work, please also consider citing their papers, including [AIF360](https://arxiv.org/abs/1810.01943), [Fair-SMOTE](https://doi.org/10.1145/3468264.3468537), [Fairea](https://doi.org/10.1145/3468264.3468565), [FairMask](https://ieeexplore.ieee.org/document/9951398), [MAAT](https://dl.acm.org/doi/10.1145/3540250.3549093), and [Zhang and Sun](https://dl.acm.org/doi/10.1145/3540250.3549103).
 
